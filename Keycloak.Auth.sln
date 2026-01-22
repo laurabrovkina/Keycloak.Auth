@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		compose.yaml = compose.yaml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keycloak.Auth.Proxy", "Keycloak.Auth.Proxy\Keycloak.Auth.Proxy.csproj", "{6CC95B33-5E41-4BD6-A9A1-F7DB60EF4094}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,5 +19,9 @@ Global
 		{30EF3F13-45AE-4C36-87FB-6FA1D04F5BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30EF3F13-45AE-4C36-87FB-6FA1D04F5BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30EF3F13-45AE-4C36-87FB-6FA1D04F5BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC95B33-5E41-4BD6-A9A1-F7DB60EF4094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC95B33-5E41-4BD6-A9A1-F7DB60EF4094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC95B33-5E41-4BD6-A9A1-F7DB60EF4094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC95B33-5E41-4BD6-A9A1-F7DB60EF4094}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
